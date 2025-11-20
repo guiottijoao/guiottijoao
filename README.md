@@ -6,7 +6,7 @@
 </div>
 <div>
   
-  - Currently in high school with a IT technical course for the Web (3/3)🕑
+  - Currently in high school with an IT technical course for the Web (3/3)🕑
   - Frontend, backend, UI/UX💻
     
 </div>
