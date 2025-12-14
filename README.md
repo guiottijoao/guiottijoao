@@ -6,8 +6,8 @@
 </div>
 <div>
   
-  - Currently in high school with an IT technical course for the Web (3/3)🕑
-  - Frontend, backend, UI/UX💻
+  - Technical Degree in Information Technology for the Internet - Federal Institute of Santa Catarina🎓
+  - Frontend, backend, UI/UX, workflow diagrams💻
     
 </div>
 
