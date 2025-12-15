@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  **`Student and Web Developer`**
+  **`Web Developer`**
 </div>
 <div>
   
