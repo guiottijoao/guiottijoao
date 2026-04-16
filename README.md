@@ -3,7 +3,7 @@
 <h1>🧑‍💻 João Guiotti</h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=5783EB&center=true&vCenter=true&width=435&lines=Fullstack+Software+Developer;Backend+%7C+API+Design+%7C+Modern+Frontends;Clean+Architecture+%7C+Great+UX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=5783EB&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Backend+%7C+API+Design+%7C+Modern+Frontends;Clean+Architecture+%7C+Great+UX" alt="Typing SVG" />
 </p>
 
 <p>
